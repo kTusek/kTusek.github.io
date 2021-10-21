@@ -1,5 +1,5 @@
 # Repozitorij moje osobne web stranice
 
-Tekst
+Moja osobna web-stranica
 
 Web page je https://kTusek.github.io
