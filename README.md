@@ -2,4 +2,4 @@
 
 Moja osobna web-stranica
 
-Web page je https://kTusek.github.io
+Web stranica je https://kTusek.github.io
